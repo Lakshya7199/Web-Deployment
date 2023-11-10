@@ -25,4 +25,4 @@ Navigate to the "frontend" folder and explore the index.html file to understand 
 
 Inside the "backend" folder, install the required Python packages and start the Flask server on its default port.
 
-Configure Nginx to serve the frontend assets and route API requests to the Flask backend.
+Configure Nginx to serve the frontend assets and route API requests to the Flask backend.1
