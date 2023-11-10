@@ -1,5 +1,5 @@
 # Web-Deployment
-Welcome to this repository! This project showcases a simple yet powerful full-stack web application that combines the elegance of an HTML frontend with the versatility of a Flask backend.
+Welcome to this repository! This project showcases a simple yet powerful full-stack web application that combines the elegance of an HTML frontend with the versatility of a Flask backend.1
 
 Frontend Folder:
 
